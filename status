@@ -1,0 +1,194 @@
+[33mcommit a9b6819ea2ad68d219a03b55df9b2dd1e1fd41f3[m[33m ([m[1;36mHEAD -> [m[1;32mCharacters[m[33m, [m[1;31morigin/Characters[m[33m)[m
+Merge: 1b88521 c00c5b5
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 16:14:28 2019 -0400
+
+    Merge remote-tracking branch 'origin/level2_map' into Characters
+
+[33mcommit 1b88521f8695eda08d383178a8e761434d18adec[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 16:13:45 2019 -0400
+
+    Arrows work now, created sword and horseman
+
+[33mcommit c00c5b5a3b94a7ea808821c02c6993d57fae550d[m[33m ([m[1;31morigin/level2_map[m[33m)[m
+Author: Beto <smartalberto6@gmail.com>
+Date:   Sun Oct 27 15:57:45 2019 -0400
+
+    added map and assets for it
+
+[33mcommit 1375fc25e88a8b2cbd22fb3f69be58303b17a03a[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 14:50:41 2019 -0400
+
+    MENUS MENUS MENUS
+
+[33mcommit 37b071b61a147cbe2ed82b3265166376eee06f6d[m
+Merge: fecad17 098c421
+Author: Jimmy Zheng <33738561+twzheng974@users.noreply.github.com>
+Date:   Sun Oct 27 14:39:54 2019 -0400
+
+    Merge pull request #5 from twzheng974/menu_icons
+    
+    added ui icons and changed main menu
+
+[33mcommit 098c42170eded83599928a56cce53fa315c1919b[m[33m ([m[1;31morigin/menu_icons[m[33m)[m
+Author: Beto <smartalberto6@gmail.com>
+Date:   Sun Oct 27 14:38:09 2019 -0400
+
+    added ui icons and changed main menu
+
+[33mcommit fecad17b9c75c2f945f412d69c8f300a00a0f23d[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 14:02:09 2019 -0400
+
+    Created archers and archer spawners
+
+[33mcommit 466df98ab249e34d982440ed9e8c5af89bafd0ca[m
+Merge: 6765ccb 70ffa84
+Author: Jimmy Zheng <33738561+twzheng974@users.noreply.github.com>
+Date:   Sun Oct 27 13:21:58 2019 -0400
+
+    Merge pull request #4 from twzheng974/audio
+    
+    Added running and death noises.
+
+[33mcommit 6765ccbaf2a6b60ae8ed8e4d02227fa5409fe5c0[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 13:21:11 2019 -0400
+
+    made more spawning zones
+
+[33mcommit 1f5f9486fe5dc901234dcb90d7bc36d389430196[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 12:50:02 2019 -0400
+
+    Created enemy spawners, updated entity models
+
+[33mcommit 4e053f30238ca3f7824dbdd95498deecfa3afb29[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 11:40:35 2019 -0400
+
+    Replaced caveman asset with the correct one
+
+[33mcommit 7f3e97f146696e4340e8f9c362237ad500a260a4[m
+Merge: 8d8c19e 838ff34
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 11:36:02 2019 -0400
+
+    Merge branch 'assets_and_map' into Characters
+
+[33mcommit 838ff3484c62c6b6c19c74d44631a9163bed6060[m[33m ([m[1;32massets_and_map[m[33m)[m
+Merge: abecfdc 8d8c19e
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sun Oct 27 11:35:23 2019 -0400
+
+    Merging Characters into assets and map
+
+[33mcommit abecfdc0eb119bb2d7107a71d1b9ff37aa72b5df[m[33m ([m[1;31morigin/assets_and_map[m[33m)[m
+Author: Beto <smartalberto6@gmail.com>
+Date:   Sun Oct 27 04:29:54 2019 -0400
+
+    imported art assets and made map
+
+[33mcommit 8d8c19ed3b4555abaf31198b5510591ae0a85064[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 23:39:26 2019 -0400
+
+    Created main menu, WIP pause menu
+
+[33mcommit 6f34704aa5226498b719998cbd6d2191b0492d68[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 22:14:08 2019 -0400
+
+    Created UI elements, made DOT tick until death
+
+[33mcommit 70ffa84cf6914cb7223816261415704dac1bbac4[m[33m ([m[1;31morigin/audio[m[33m, [m[1;32maudio[m[33m)[m
+Author: Jonas <jhnilend@ncsu.edu>
+Date:   Sat Oct 26 21:03:58 2019 -0400
+
+    Added running and death noises.
+
+[33mcommit 80effa2bd937203419cd9133bd0d44c2db33f648[m
+Author: Jonas <jhnilend@ncsu.edu>
+Date:   Sat Oct 26 19:52:07 2019 -0400
+
+    Added caveman stick sounds
+
+[33mcommit 38ff0a575b0fb3f7bc25bf811cf96ce9a0fed0cc[m[33m ([m[1;31morigin/dev[m[33m)[m
+Merge: 7a53500 44689e4
+Author: Jimmy Zheng <33738561+twzheng974@users.noreply.github.com>
+Date:   Sat Oct 26 19:09:30 2019 -0400
+
+    Merge pull request #2 from twzheng974/Characters
+    
+    Characters
+
+[33mcommit 44689e4b79719e452861db924b168e26d4f44993[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 17:50:31 2019 -0400
+
+    Implemented damage over time
+
+[33mcommit 5883c6cc9ef6a804d85086fad4616ffabb4436af[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 13:58:39 2019 -0400
+
+    Cleaned up Characters branch
+
+[33mcommit 7a53500b32fd36369f7093a8fd1cf7ead1b0c536[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 13:53:31 2019 -0400
+
+    Cleaned up master branch
+
+[33mcommit 38dceb7f7e63412aa87605e6bdb4affd27d8542f[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 13:51:29 2019 -0400
+
+    ???
+
+[33mcommit ee7c25c09b0ab16bc62a625ce862b2f30f30fed7[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 13:47:34 2019 -0400
+
+    Fixed Monolith camera, left clicks can kill now
+
+[33mcommit 3f9cfb1eca3793bde0c20d1ca831044b57ebd287[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Sat Oct 26 04:56:32 2019 -0400
+
+    Did a lot of things that may or may not work
+
+[33mcommit dc6901ad36640aa0663d0acd60fe479111b7e931[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Fri Oct 25 22:14:17 2019 -0400
+
+    Created IDamageable interface
+
+[33mcommit 6dcd81463eb7b4857b363c3278a87618da265e94[m
+Merge: b4c6786 ca07f3b
+Author: Jimmy Zheng <33738561+twzheng974@users.noreply.github.com>
+Date:   Fri Oct 25 22:07:16 2019 -0400
+
+    Merge pull request #1 from twzheng974/gitignore
+    
+    Create .gitignore
+
+[33mcommit ca07f3bcb3599ea1fc78f5fcb26a3ea599cf9e75[m
+Author: Jimmy Zheng <33738561+twzheng974@users.noreply.github.com>
+Date:   Fri Oct 25 22:06:00 2019 -0400
+
+    Create .gitignore
+
+[33mcommit b4c6786bab2a0b3248edc7a14abd3a8cf46c6ace[m
+Author: twzheng <twzheng@ncsu.edu>
+Date:   Fri Oct 25 21:26:39 2019 -0400
+
+    Generated Game Template
+
+[33mcommit 4732c01c54c63c071374b1a2940431495314798b[m
+Author: Jimmy Zheng <33738561+twzheng974@users.noreply.github.com>
+Date:   Fri Oct 25 21:08:50 2019 -0400
+
+    Initial commit
